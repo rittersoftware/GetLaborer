@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetLaborer.Api", "GetLaborer.Api\GetLaborer.Api.csproj", "{A37736D3-E2CB-4E8B-B278-BEF76B99B792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37736D3-E2CB-4E8B-B278-BEF76B99B792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37736D3-E2CB-4E8B-B278-BEF76B99B792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37736D3-E2CB-4E8B-B278-BEF76B99B792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37736D3-E2CB-4E8B-B278-BEF76B99B792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25E2BFC-065E-4FCE-AB71-44CF301EA242}
+	EndGlobalSection
+EndGlobal
